@@ -3,13 +3,15 @@ A data engineering project on extracting and transform dataset from a kaggle dat
 ## Participants
 Hassan Hosain, Hong Eng, Sailaja ,Rosni
 
+* Extraction
+1. First run the file Extract-api_kagglecall.ipynb and follow the instructions accordingly as you will need to download the kaggle.json file from your kaggle account.
 
-Creating a python virtual environment do the steps below:
-This is to install all python libraries in this virtual environment
+* Transformation & Load
+1. Run the reading_csv.ipynb to run the transformation and also load the dataframes into 4 tables in the postgresql data warehouse
 
-1. Create a Python Virtual Environment: python -m venv venv
-2. Activate the Python Virtual Environment: venv/Scripts/activate
-3. Install the appropriate python libraries required for this project
+* Analysis
+- A portion of the analysis is done in the same reading_csv.ipynb
+- Visualization is in power bi see visualization file
 ### Date 21-March-2024
 Findings: From the cuisine table we found out there are establishments other than restaurants, which include marts, pet shops,health suppliments shops,toys & games shop etc.
 ### Decision taken:
