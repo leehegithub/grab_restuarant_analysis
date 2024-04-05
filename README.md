@@ -27,4 +27,4 @@ CLEAN address and opening hours,
 delivery cost/100,
 split cuisine column to table.
 
-
+link to intrim project ppt at canva  https://www.canva.com/design/DAGBKTv81AQ/NU_B_3Db1EL5hFlgIMxJVA/edit?utm_content=DAGBKTv81AQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
