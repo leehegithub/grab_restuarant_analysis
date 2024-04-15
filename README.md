@@ -16,10 +16,10 @@ Lee Hong Eng, Hassan Hosain, Sailaja ,Rosni
 - Visualization with Python - see reading_csv.ipynb
 
 * Documentation
-  See ETL Pipeline for Grab Delivery Data Insights Documentation.docx
+ - See ETL Pipeline for Grab Delivery Data Insights Documentation.docx
 
 * Presentation Slides
-  See intrim project presentation link
+ - See intrim project presentation link
 
 Date 21-March-2024
 Findings: From the cuisine table we found out there are establishments other than restaurants, which include marts, pet shops,health suppliments shops,toys & games shop etc.
